@@ -1,6 +1,6 @@
 # another_one
 
-A new Flutter project.
+Speedrun to implement auth features
 
 ## Getting Started
 
